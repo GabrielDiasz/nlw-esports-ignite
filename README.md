@@ -26,7 +26,7 @@ A versão mobile da aplicação trás a possibilidade de visualizar esses anúnc
 
 ## Tecnologias utilizadas 💻
 
-**Client:** React, Redux, TailwindCSS
+**Client:** React, TailwindCSS
 
 **Server:** Node, Express
 
