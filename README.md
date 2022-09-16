@@ -10,15 +10,15 @@ A versão mobile da aplicação trás a possibilidade de visualizar esses anúnc
 
 - Tela inicial da Web
 
-<img src="https://github.com/GabrielDiasz/nlw-esports-ignite/blob/main/img/web-project.png">
+<img align="center" src="https://github.com/GabrielDiasz/nlw-esports-ignite/blob/main/img/web-project.png">
 
 - Tela de exemplo de criação dos anúncios
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D22AQG4YCoRDXoLLw/feedshare-shrink_2048_1536/0/1663356183901?e=1666224000&v=beta&t=NDGzmIsQeuVSnsD21yZHQ63_GFmMfUgU2rGAhcUJ_IE">
+<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D22AQG4YCoRDXoLLw/feedshare-shrink_2048_1536/0/1663356183901?e=1666224000&v=beta&t=NDGzmIsQeuVSnsD21yZHQ63_GFmMfUgU2rGAhcUJ_IE">
 
 ## Screenshots Mobile
 
-<div>
+<div align="center">
     <img style="width: 250px" src="https://github.com/GabrielDiasz/nlw-esports-ignite/blob/main/img/mobile-project.jpeg">
     <img style="width: 250px" src="https://media-exp1.licdn.com/dms/image/C4D22AQHNkH2rrbX3_A/feedshare-shrink_800/0/1663356183418?e=1666224000&v=beta&t=vESAQcAubV4MN18_gNmwLUbfxAQwOM743QBa3a1GLiw">
     <img style="width: 250px" src="https://github.com/GabrielDiasz/nlw-esports-ignite/blob/main/img/discord-mobile.jpeg">
