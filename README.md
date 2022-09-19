@@ -1,9 +1,9 @@
 
 # NLW eSports Ignite 🚀💜🎮🕹
 
-Este projeto foi desenvolvido durante a NLW (Next Level Week) da Rocketseat. O projeto se trata de uma aplicação web aonde eu consigo criar anúncios de alguns jogos para poder encontrar um duo!
+Este projeto foi desenvolvido durante a NLW (Next Level Week) da Rocketseat. O projeto se trata de uma aplicação web aonde é possível criar anúncios de alguns jogos para poder encontrar um duo!
 
-A versão mobile da aplicação trás a possibilidade de visualizar esses anúncios criados na web e possibilita a conexão com o criador do anúncio, dando assim um "match" para poderem jogar juntos
+A versão mobile da aplicação trás a possibilidade de visualizar esses anúncios criados na web e possibilita a conexão com o criador do anúncio, dando assim um "match" para poderem jogar juntos.
 
 
 ## Screenshots Web
@@ -28,7 +28,7 @@ A versão mobile da aplicação trás a possibilidade de visualizar esses anúnc
 
 **Client:** React, TailwindCSS
 
-**Server:** Node, Express
+**Server:** Node, Express, SQLite e Prisma
 
 **Mobile:** React Native
 
